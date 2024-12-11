@@ -1,0 +1,5 @@
+com\example\employee_microservice\Models\Post.class
+com\example\employee_microservice\EmployeeMicroserviceApplication.class
+com\example\employee_microservice\Service\PostService.class
+com\example\employee_microservice\Repositories\PostRepository.class
+com\example\employee_microservice\Controllers\PostController.class
